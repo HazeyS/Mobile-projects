@@ -2,10 +2,6 @@
 
 ## The first project:
 
-The assignment
-
----
-
-Adding Awesome Code
+I think we're figuring this out!
 
 
